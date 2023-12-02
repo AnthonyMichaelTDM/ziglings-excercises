@@ -3,7 +3,6 @@
 By reading this document, you have already entered the Elite Hall
 of Ziglings Maintenance!
 
-
 ## The Ziglings Audience
 
 Ziglings is intended for programmers of all experience levels. No
@@ -20,14 +19,12 @@ additional work. Please file an issue!
 If an example doesn't match a description or if something is
 unclear, please file an issue!
 
-
 ## Spelling/Grammar
 
 If you see any typos, please file an issue...or make a pull
 request!
 
 No mistake is too small. The Ziglings must be perfect. :-)
-
 
 ## Ideas
 
@@ -51,12 +48,10 @@ If you run into an error in Ziglings caused by breaking changes
 in the latest development build of Zig, that's a new bug in
 Ziglings. Please file an issue...or make a pull request!
 
-
 ## Formatting
 
 All exercises should conform to `zig fmt`. I often forget to do
 this.
-
 
 ## Pull Request Workflow
 
@@ -74,7 +69,6 @@ interface.  Specifically:
   request ASAP (we don't talk about May-July 2022, LOL)
 * Once the changes are reviewed, your request will be merged and
   eternal Ziglings contributor glory is yours!
-
 
 ## The Secrets
 
